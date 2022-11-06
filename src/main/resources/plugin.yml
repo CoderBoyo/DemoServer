@@ -1,0 +1,3 @@
+name: DemoServer
+version: '1.1'
+main: org.soulsoftware.DemoServer
